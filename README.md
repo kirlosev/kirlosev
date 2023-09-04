@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hiiii 👋
+
+🚀 I currently work on Space Arena from HeroCraft   
+🐶 And I make my own games in spare time   
 
 <!--
 **kirlosev/kirlosev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
